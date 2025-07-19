@@ -16,9 +16,8 @@ A clean and responsive single-page **Curriculum Vitae (CV)** created using only 
 - Inline CSS
 - Open Graph meta tags
 
-## 🌐 Live Preview
+## 🛠 Inspired by : https://roadmap.sh/projects/single-page-cv
 
-[View it on GitHub Pages](https://yourusername.github.io/html-cv/) *(after enabling Pages in settings)*
 
 ## 📩 Contact
 
